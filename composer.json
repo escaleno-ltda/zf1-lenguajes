@@ -1,0 +1,17 @@
+{
+	"name": "escaleno/zf1-lenguajes",
+	"description": "Languajes Library for Zend Framework 1 Validator",
+	"keywords": [
+		"framework",
+		"zf1",
+		"zend"
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"autoload": {
+		"psr-0": {
+			"Lenguajes": "library/"
+		}
+	}
+}
