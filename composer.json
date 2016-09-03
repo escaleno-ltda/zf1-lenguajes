@@ -1,11 +1,19 @@
 {
 	"name": "escaleno/zf1-lenguajes",
 	"description": "Languajes Library for Zend Framework 1 Validator",
+  "version": "0.0.1",
+  "type": "library",
 	"keywords": [
 		"framework",
 		"zf1",
 		"zend"
 	],
+  "homepage": "https://github.com/escaleno-ltda/zf1-lenguajes",
+  "license": "MIT",
+  "support": {
+    "email": "habla.con@escaleno.cl",
+    "issues": "https://github.com/escaleno-ltda/zf1-lenguajes/issues"
+  },
 	"require": {
 		"php": ">=5.3"
 	},
